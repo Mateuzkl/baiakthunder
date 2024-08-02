@@ -6,7 +6,7 @@ guildLeaderSquare = true
 pvpBalance = true
 pushCruzado = true
 
-monsterBonusHealth = 0.5
+monsterBonusHealth = 0.5 ---
 monsterBonusSpeed = 0.02
 monsterBonusDamage = 0.02
 
